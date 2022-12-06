@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfe03b9c3982639418291ce03d043413, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitPoints: 100
+  enemyHealth: 100
   deadAudio: {fileID: 8300000, guid: a4366158371c9514cae30cfff454dcb2, type: 3}
   damagedAudio: {fileID: 8300000, guid: fc1882cb9cb0d474c95537bbdb4c48bd, type: 3}
 --- !u!114 &141089025658671784
@@ -166,7 +166,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e63762c7812da94eb03e86be66b8389, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
   chaseRange: 10
   turnSpeed: 5
 --- !u!114 &1775997944751621191

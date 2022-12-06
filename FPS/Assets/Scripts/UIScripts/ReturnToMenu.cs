@@ -7,6 +7,11 @@ public class ReturnToMenu : MonoBehaviour
 {
     private void Update()
     {
+        if (PlayerPrefs.HasKey("continue"))
+        {
+            PlayerPrefs.DeleteKey("continue");
+        }
+
         if (Input.anyKeyDown)
         {
             ReturnToMenuEvent();

@@ -8007,7 +8007,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-139102
+  m_Name: pb_Mesh45424
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13177,16 +13177,28 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 141089025658671765, guid: c05c20c3f20be9b4dbd6ec0f3321fd65, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2475
+      objectReference: {fileID: 0}
+    - target: {fileID: 141089025658671765, guid: c05c20c3f20be9b4dbd6ec0f3321fd65, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2475
+      objectReference: {fileID: 0}
+    - target: {fileID: 141089025658671765, guid: c05c20c3f20be9b4dbd6ec0f3321fd65, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2475
+      objectReference: {fileID: 0}
+    - target: {fileID: 141089025658671765, guid: c05c20c3f20be9b4dbd6ec0f3321fd65, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 38.777073
+      value: 38.773
       objectReference: {fileID: 0}
     - target: {fileID: 141089025658671765, guid: c05c20c3f20be9b4dbd6ec0f3321fd65, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.120000005
+      value: -0.28
       objectReference: {fileID: 0}
     - target: {fileID: 141089025658671765, guid: c05c20c3f20be9b4dbd6ec0f3321fd65, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 77.99739
+      value: 77.993
       objectReference: {fileID: 0}
     - target: {fileID: 141089025658671765, guid: c05c20c3f20be9b4dbd6ec0f3321fd65, type: 3}
       propertyPath: m_LocalRotation.w
@@ -13813,8 +13825,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190335
-  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
+    rgba: 4278190181
+  m_fontColor: {r: 0.3962264, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -13867,7 +13879,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 5.4183736, y: -0.06203842, z: 13.3354225, w: 4.4204645}
+  m_margin: {x: 5.4183736, y: -0.06203842, z: 13.3354225, w: 4.2772617}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   _SortingLayer: 0
@@ -17123,7 +17135,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-148766
+  m_Name: pb_Mesh45394
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
